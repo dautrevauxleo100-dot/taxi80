@@ -1,0 +1,9 @@
+{
+  "name": "TAXI DAUTREVAUX",
+  "short_name": "TAXI DAUTREVAUX",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#060914",
+  "theme_color": "#060914",
+  "lang": "fr"
+}
